@@ -1,1 +1,1 @@
-soham-portfolio007.netlify.app
+https://soham-portfolio007.netlify.app/
